@@ -6,7 +6,7 @@
 
 ## 🌠 Output
 
-<img width="400" alt="Sample image of output" src="output.jpeg" />
+<img width="400" alt="Sample image of output" src="output.jpg" />
 
 
 
